@@ -1,6 +1,6 @@
 # Wallpaper Wall
 
-一个 为Echoes678建立的壁纸墙网站。前端使用 Vue 3 + Element Plus，后端使用 Node.js + Express，推荐部署到 Vercel
+一个 为Echoes678建立的壁纸墙网站。前端使用 Vue 3 + Element Plus，后端使用 Node.js + Express，推荐部署到 Vercel ，以使用serverless服务
 
 ## 技术栈
 
@@ -10,10 +10,10 @@
 
 ### 环境要求
 
-- Node.js 20+
+- Node.js 20+ (推荐24)
 
 >[!WARNING]
->以下README内容由AI编写，仅做审查与些许修改
+>因为太懒，所以以下内容由AI编写，仅做审查与些许修改
 
 ### 安装依赖
 
