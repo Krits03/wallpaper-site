@@ -8,6 +8,12 @@
 - 后端：Node.js、Express
 - 部署：Vercel（Serverless Functions）
 
+## 格式配置说明 ##
+
+- 配置示例请看[EAMPLE文件](https://github.com/Krits03/wallpaper-site/blob/main/EXAMPLE-wallpaper-config.json)
+- 请严格按照格式进行编辑!
+- 请严格按照格式进行编辑！
+  
 ### 环境要求
 
 - Node.js 20+
