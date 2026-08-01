@@ -1,0 +1,39 @@
+{
+  "name": "wallpaper-wall",
+  "version": "1.0.0",
+  "description": "A Material Design 3 wallpaper wall website with Vue 3 frontend and Node.js backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev:server": "node --watch server.js",
+    "dev:client": "vite client --config client/vite.config.js",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "build": "vite build client --config client/vite.config.js",
+    "deploy": "npm run build && npx vercel --prod --yes",
+    "deploy:preview": "npm run build && npx vercel --yes",
+    "vercel:login": "npx vercel login",
+    "vercel:deploy": "npx vercel --yes",
+    "vercel:prod": "npx vercel --prod --yes"
+  },
+  "keywords": [
+    "wallpaper",
+    "material-design",
+    "vue3",
+    "element-plus",
+    "nodejs",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "element-plus": "^2.9.7",
+    "express": "^4.19.2",
+    "vue": "^3.5.40"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.8",
+    "concurrently": "^10.0.4",
+    "vite": "^8.2.0"
+  }
+}

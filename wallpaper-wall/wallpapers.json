@@ -1,0 +1,139 @@
+{
+  "categories": [
+    {
+      "id": "nature",
+      "label": "自然",
+      "icon": "forest"
+    },
+    {
+      "id": "architecture",
+      "label": "建筑",
+      "icon": "apartment"
+    },
+    {
+      "id": "abstract",
+      "label": "抽象",
+      "icon": "texture"
+    },
+    {
+      "id": "minimal",
+      "label": "极简",
+      "icon": "minimize"
+    },
+    {
+      "id": "technology",
+      "label": "科技",
+      "icon": "memory"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "w1",
+      "title": "山间晨雾",
+      "category": "nature",
+      "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["山", "雾", "自然"]
+    },
+    {
+      "id": "w2",
+      "title": "极光之夜",
+      "category": "nature",
+      "thumbnail": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["极光", "夜空", "自然"]
+    },
+    {
+      "id": "w3",
+      "title": "森林小径",
+      "category": "nature",
+      "thumbnail": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["森林", "树木", "自然"]
+    },
+    {
+      "id": "w4",
+      "title": "现代建筑",
+      "category": "architecture",
+      "thumbnail": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["建筑", "城市", "现代"]
+    },
+    {
+      "id": "w5",
+      "title": "几何抽象",
+      "category": "abstract",
+      "thumbnail": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["抽象", "几何", "艺术"]
+    },
+    {
+      "id": "w6",
+      "title": "极简桌面",
+      "category": "minimal",
+      "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["极简", "白色", "干净"]
+    },
+    {
+      "id": "w7",
+      "title": "电路板",
+      "category": "technology",
+      "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["科技", "电路", "芯片"]
+    },
+    {
+      "id": "w8",
+      "title": "城市夜景",
+      "category": "architecture",
+      "thumbnail": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["城市", "夜景", "灯光"]
+    },
+    {
+      "id": "w9",
+      "title": "水彩晕染",
+      "category": "abstract",
+      "thumbnail": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["抽象", "水彩", "色彩"]
+    },
+    {
+      "id": "w10",
+      "title": "海洋波浪",
+      "category": "nature",
+      "thumbnail": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["海洋", "波浪", "自然"]
+    },
+    {
+      "id": "w11",
+      "title": "代码世界",
+      "category": "technology",
+      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["代码", "屏幕", "科技"]
+    },
+    {
+      "id": "w12",
+      "title": "沙漠沙丘",
+      "category": "nature",
+      "thumbnail": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=400&q=80",
+      "url": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=1920&q=90",
+      "resolution": "1920x1280",
+      "tags": ["沙漠", "沙丘", "自然"]
+    }
+  ]
+}
