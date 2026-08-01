@@ -32,7 +32,7 @@ const downloadWallpaper = (wallpaper) => {
         <el-icon :size="28" color="var(--primary)"><Picture /></el-icon>
         <h1>壁纸墙</h1>
       </div>
-      <p class="subtitle">精选 Material Design 风格壁纸</p>
+      <p class="subtitle">Ech678精选壁纸</p>
     </header>
 
     <main class="app-main">
