@@ -10,7 +10,7 @@
 
 ## 格式配置说明 ##
 
-- 配置示例请看[EAMPLE文件](https://github.com/Krits03/wallpaper-site/blob/main/EXAMPLE-wallpaper-config.json)
+- 配置示例请看[EAMPLE文件](https://github.com/Krits03/wallpaper-site/blob/main/EXAMPLE-wallpaper-config.json.txt)
 - 请严格按照格式进行编辑!
 - 请严格按照格式进行编辑！
   
