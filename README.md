@@ -1,6 +1,7 @@
-# Wallpaper Wall
+# Echo Wallpaper
+#回响壁纸
 
-一个 为Echoes678 建立的壁纸墙网站。前端使用 Vue 3 + Element Plus，后端使用 Node.js + Express，推荐部署到 Vercel
+一个壁纸墙网站。前端使用 Vue 3 + Element Plus，后端使用 Node.js + Express，推荐部署到 Vercel
 
 ## 技术栈
 
