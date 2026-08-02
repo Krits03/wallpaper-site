@@ -97,10 +97,10 @@ npm start
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=Krits03%2Fwallpaper-site&type=timeline&logscale=&legend=top-left">
+<a href="https://www.star-history.com/?repos=Krits03%2Fwallpaper-site&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Krits03/wallpaper-site&type=timeline&theme=dark&logscale&legend=top-left&sealed_token=EbF_seAJ0FIdHKcYm9Gf2HY6RYayUZRr3075cTiNyxYXSMOte6L3ozYdYWfyCmh4awOBfh-TrURiSOgNlbZBA_FMJoTmIG8NBPBVtmSL4NT5LIt-s7ZPS4cOxhdxHpynozYHl9ZKYCHggNhCRM1_xCDCok69zW8Vi8lRPD3Whm-rpzZHd3bEx-URTqj0" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Krits03/wallpaper-site&type=timeline&logscale&legend=top-left&sealed_token=EbF_seAJ0FIdHKcYm9Gf2HY6RYayUZRr3075cTiNyxYXSMOte6L3ozYdYWfyCmh4awOBfh-TrURiSOgNlbZBA_FMJoTmIG8NBPBVtmSL4NT5LIt-s7ZPS4cOxhdxHpynozYHl9ZKYCHggNhCRM1_xCDCok69zW8Vi8lRPD3Whm-rpzZHd3bEx-URTqj0" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Krits03/wallpaper-site&type=timeline&logscale&legend=top-left&sealed_token=EbF_seAJ0FIdHKcYm9Gf2HY6RYayUZRr3075cTiNyxYXSMOte6L3ozYdYWfyCmh4awOBfh-TrURiSOgNlbZBA_FMJoTmIG8NBPBVtmSL4NT5LIt-s7ZPS4cOxhdxHpynozYHl9ZKYCHggNhCRM1_xCDCok69zW8Vi8lRPD3Whm-rpzZHd3bEx-URTqj0" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Krits03/wallpaper-site&type=date&theme=dark&legend=top-left&sealed_token=a5W6zAbYxqOp6KpD2fAEwUWvHWGMkr3P8NMlU54KEB-z-dNYO2hsk5UQ40qowst0CqVmGFqYsFKgn-Axvz80pHYI_607F9sPOS9BDmkSEtRJvBVKCc54mFZHlc962CvodCS7LGnw8KL2fNbeGq9PNjDMAfj3wP-0sEEC0VSKZ829-_BWpvRvxJBHjG34" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Krits03/wallpaper-site&type=date&legend=top-left&sealed_token=a5W6zAbYxqOp6KpD2fAEwUWvHWGMkr3P8NMlU54KEB-z-dNYO2hsk5UQ40qowst0CqVmGFqYsFKgn-Axvz80pHYI_607F9sPOS9BDmkSEtRJvBVKCc54mFZHlc962CvodCS7LGnw8KL2fNbeGq9PNjDMAfj3wP-0sEEC0VSKZ829-_BWpvRvxJBHjG34" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Krits03/wallpaper-site&type=date&legend=top-left&sealed_token=a5W6zAbYxqOp6KpD2fAEwUWvHWGMkr3P8NMlU54KEB-z-dNYO2hsk5UQ40qowst0CqVmGFqYsFKgn-Axvz80pHYI_607F9sPOS9BDmkSEtRJvBVKCc54mFZHlc962CvodCS7LGnw8KL2fNbeGq9PNjDMAfj3wP-0sEEC0VSKZ829-_BWpvRvxJBHjG34" />
  </picture>
 </a>
