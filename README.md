@@ -94,3 +94,13 @@ npm start
 | `GET /api/rd` | 随机推荐壁纸 |
 | `GET /api/health` | 健康检查 |
 
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=Krits03%2Fwallpaper-site&type=timeline&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Krits03/wallpaper-site&type=timeline&theme=dark&logscale&legend=top-left&sealed_token=EbF_seAJ0FIdHKcYm9Gf2HY6RYayUZRr3075cTiNyxYXSMOte6L3ozYdYWfyCmh4awOBfh-TrURiSOgNlbZBA_FMJoTmIG8NBPBVtmSL4NT5LIt-s7ZPS4cOxhdxHpynozYHl9ZKYCHggNhCRM1_xCDCok69zW8Vi8lRPD3Whm-rpzZHd3bEx-URTqj0" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Krits03/wallpaper-site&type=timeline&logscale&legend=top-left&sealed_token=EbF_seAJ0FIdHKcYm9Gf2HY6RYayUZRr3075cTiNyxYXSMOte6L3ozYdYWfyCmh4awOBfh-TrURiSOgNlbZBA_FMJoTmIG8NBPBVtmSL4NT5LIt-s7ZPS4cOxhdxHpynozYHl9ZKYCHggNhCRM1_xCDCok69zW8Vi8lRPD3Whm-rpzZHd3bEx-URTqj0" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Krits03/wallpaper-site&type=timeline&logscale&legend=top-left&sealed_token=EbF_seAJ0FIdHKcYm9Gf2HY6RYayUZRr3075cTiNyxYXSMOte6L3ozYdYWfyCmh4awOBfh-TrURiSOgNlbZBA_FMJoTmIG8NBPBVtmSL4NT5LIt-s7ZPS4cOxhdxHpynozYHl9ZKYCHggNhCRM1_xCDCok69zW8Vi8lRPD3Whm-rpzZHd3bEx-URTqj0" />
+ </picture>
+</a>
