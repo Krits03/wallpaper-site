@@ -1,5 +1,5 @@
 <script setup>
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import { useWallpapers } from './composables/useWallpapers.js'
 import WallpaperCard from './components/WallpaperCard.vue'
 import PreviewDialog from './components/PreviewDialog.vue'
@@ -23,6 +23,13 @@ const downloadWallpaper = (wallpaper) => {
   a.click()
   a.remove()
 }
+
+// 访问统计：Vue 渲染完成后刷新不蒜子统计数值
+onMounted(() => {
+  if (window.busuanzi) {
+    window.busuanzi.fetch()
+  }
+})
 </script>
 
 <template>
@@ -95,6 +102,26 @@ const downloadWallpaper = (wallpaper) => {
         </el-button>
       </div>
     </main>
+
+    <footer class="app-footer">
+      <a
+        class="footer-link"
+        href="https://github.com/Krits03/wallpaper-site"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <el-icon><Link /></el-icon>
+        <span>GitHub</span>
+      </a>
+      <p class="footer-stats">
+        <span id="busuanzi_container_site_pv">本站总访问量 <span id="busuanzi_value_site_pv"></span> 次</span>
+        <span class="stats-divider">·</span>
+        <span id="busuanzi_container_site_uv">本站访客数 <span id="busuanzi_value_site_uv"></span> 人</span>
+      </p>
+      <p class="footer-stack">
+        开发技术栈：Vue 3 · Vite · Element Plus · Node.js / Express
+      </p>
+    </footer>
 
     <PreviewDialog
       v-model="dialogVisible"
@@ -176,6 +203,42 @@ const downloadWallpaper = (wallpaper) => {
 }
 .list-leave-active {
   position: absolute;
+}
+.app-footer {
+  text-align: center;
+  padding: 32px 20px 40px;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+.footer-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--primary);
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: opacity 0.2s;
+}
+.footer-link:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+.footer-stats {
+  margin: 12px 0 0;
+  color: var(--on-surface-variant);
+  font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.stats-divider {
+  opacity: 0.5;
+}
+.footer-stack {
+  margin: 8px 0 0;
+  color: var(--on-surface-variant);
+  font-size: 0.85rem;
 }
 
 @media (max-width: 768px) {
