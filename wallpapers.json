@@ -134,6 +134,15 @@
       "url": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=1920&q=90",
       "resolution": "1920x1280",
       "tags": ["沙漠", "沙丘", "自然"]
+    },
+    {
+      "id": "w13",
+      "title": "武陵山水",
+      "category": "nature",
+      "thumbnail": "https://img.cf.wkr-dev.top/file/wallpaper/1785656925537_20260721_13310884.webp?w=400&q=80",
+      "url": "https://img.cf.wkr-dev.top/file/wallpaper/1785656925537_20260721_13310884.webp",
+      "resolution": "1757x988",
+      "tags": ["流水", "树", "自然"]
     }
   ]
 }
